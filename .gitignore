@@ -1,0 +1,9 @@
+sim_build/
+__pycache__/
+*.pyc
+*.vcd
+*.fst
+coverage.dat
+curve.csv
+coverage.yml
+results.xml
